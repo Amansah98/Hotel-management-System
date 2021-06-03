@@ -112,7 +112,7 @@ class HOTEL:
 
        
 
-
+#Constructor
 if __name__ == "__main__":
     root = Tk()
     abc = HOTEL(root)
